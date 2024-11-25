@@ -1,0 +1,30 @@
+.destaque{
+    width: 500px;
+    height: 200px;
+    background-color:rgb(149, 49, 31);
+    border-radius: 7px;
+    font-size: 23px;
+    margin-top: 300px;
+    margin-left: 500px;
+}
+
+img{
+    width: 300px;
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+}
+
+h1,p{
+    color: white;
+    margin-left: 50px;
+}
+
+body{
+    background-image: url(assents/fundoeditado2.jpg);
+    height: 50px;
+    width: 100px;
+    
+
+}
+
